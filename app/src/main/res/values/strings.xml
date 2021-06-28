@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="card_tv_title">Saldo disponível</string>
+    <string name="user_name">Olá, Matheus</string>
+    <string name="backgorund_desc">Fundo vermelho</string>
+    <string name="user_branch">Ag 2030</string>
+    <string name="card_iv_update_desc">Icone de atualização</string>
+    <string name="card_iv_less_desc">Icone mostrar menos</string>
+    <string name="user_account">Cc 01097954-54</string>
+    <string name="currency">R$</string>
+    <string name="card_tv_balance">1.324,64</string>
+    <string name="card_tv_balance_with_limit">Saldo + Limite R$ </string>
+    <string name="card_tv_balance_with_limit_value">2.324,64</string>
+    <string name="card_tv_show_extract">Ver Extrato</string>
+    <string name="pay">Pagar</string>
+    <string name="transfer">Transferir</string>
+    <string name="recharge">Recarregar</string>
+    <string name="card_transfer_iv_icon">Cédulas Sobrepostas</string>
+    <string name="card_pay_iv_icon">Cartão de crédito</string>
+    <string name="card_recharge_iv_icon">Dispositivo móvel</string>
+    <string name="cartao_final">Cartão Final</string>
+    <string name="cartao_final_value">0033</string>
+</resources>
