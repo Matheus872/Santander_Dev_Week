@@ -3,6 +3,6 @@
 
 
 <h1 align="center">
-  <img alt="Tela inicial" src="./rsc/sdw.png"/>
+  <img alt="Tela inicial" src="./app/rsc/sdw.png"/>
 </h1>
 
